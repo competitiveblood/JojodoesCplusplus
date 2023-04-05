@@ -1,2 +1,2 @@
 # JojodoesC++
- master the basic syntax of the language
+ mastering the basic syntax of the language
