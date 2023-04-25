@@ -22,11 +22,9 @@ if (condition)
 true
 if (condition)
 (
-
 )
 else
 (
-
 )
 
 
@@ -36,11 +34,9 @@ else
     //execution on false 
     if (condition)
     (
-
     )
     else
     (
-
     )
 )
 ```
