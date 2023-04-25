@@ -1,5 +1,6 @@
-If else statements 
+**If else statements**
 
+```
 if (condition)
 (
     //execute this block if
@@ -10,10 +11,12 @@ else
     //execute this block if
     //condition is false
 )
+```
+
+**Nested if statement**
 
 
-Nested if
-
+```
 if (condition)
 ( // executes this block if
 true
@@ -40,10 +43,14 @@ else
 
     )
 )
+```
 
 
-If else if laddder 
 
+
+**If else if laddder**
+
+```
  if (condition)
  (
     statement ;
@@ -57,3 +64,4 @@ If else if laddder
  (
     statement ;
  )
+ ```
